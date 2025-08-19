@@ -1,3 +1,8 @@
+# Video explicativo de la tarea
+```bash
+https://youtu.be/i3M0H1xFb-Y
+```
+
 # Como correr el codigo
 Se necesita tener docker instalado
 
