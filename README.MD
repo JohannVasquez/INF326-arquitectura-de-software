@@ -6,7 +6,8 @@ https://youtu.be/i3M0H1xFb-Y
 # Como correr el codigo
 Se necesita tener docker instalado
 
-La forma en que lo corrí yo es usando primero
+La forma en que lo corrí yo el codigo es
+(Hay que estar dentro de la carpeta "Tarea 1" para que funcione)
 ```bash
 docker compose up --build loki
 ```
